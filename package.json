@@ -6,9 +6,6 @@
     "pdf417"
   ],
   "version": "1.1.1",
-  "scripts": {
-    "postinstall": "yarn add @react-native-community/art"
-  },
   "description": "react native component for pdf417 barcode",
   "main": "index.js",
   "homepage": "https://github.com/GingerBear/react-native-barcode-pdf417",
@@ -17,9 +14,5 @@
     "url": "git@github.com:GingerBear/react-native-barcode-pdf417.git"
   },
   "author": "",
-  "license": "MIT",
-  "dependencies": {
-    "@react-native-community/art": "^1.1.2",
-    "react-native": "^0.75.2"
-  }
+  "license": "MIT"
 }
